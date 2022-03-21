@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Employers-App/static/css/main.b0e002f5.chunk.css",
+    "main.js": "/Employers-App/static/js/main.b72e8247.chunk.js",
+    "main.js.map": "/Employers-App/static/js/main.b72e8247.chunk.js.map",
+    "runtime-main.js": "/Employers-App/static/js/runtime-main.27ae099b.js",
+    "runtime-main.js.map": "/Employers-App/static/js/runtime-main.27ae099b.js.map",
+    "static/js/2.7b8df337.chunk.js": "/Employers-App/static/js/2.7b8df337.chunk.js",
+    "static/js/2.7b8df337.chunk.js.map": "/Employers-App/static/js/2.7b8df337.chunk.js.map",
+    "index.html": "/Employers-App/index.html",
+    "static/css/main.b0e002f5.chunk.css.map": "/Employers-App/static/css/main.b0e002f5.chunk.css.map",
+    "static/js/2.7b8df337.chunk.js.LICENSE.txt": "/Employers-App/static/js/2.7b8df337.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ae099b.js",
+    "static/js/2.7b8df337.chunk.js",
+    "static/css/main.b0e002f5.chunk.css",
+    "static/js/main.b72e8247.chunk.js"
+  ]
+}
